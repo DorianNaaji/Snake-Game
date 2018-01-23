@@ -1,4 +1,4 @@
 # snakeGame
 snake game in java
 
--- documentation (jdoc) is FRENCH only
+-- documentation (javadoc) is FRENCH only for the needs of the project (made at the Institute of Technology of Dijon, France)
